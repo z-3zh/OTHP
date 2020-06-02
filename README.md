@@ -8,3 +8,5 @@
 bairong 
 mysql_user:rrr
 password:rrrr
+mail.100credit.com
+smtp
