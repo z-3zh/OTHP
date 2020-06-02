@@ -5,3 +5,6 @@
 ## 关于造轮子
 ## 目的
 ## 主要产品
+bairong 
+mysql_user:rrr
+password:rrrr
