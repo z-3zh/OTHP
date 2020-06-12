@@ -10,3 +10,8 @@ mysql_user:rrr
 password:rrrr
 mail.100credit.com
 smtp
+sec@100credit.com
+password\
+pwd
+jdbc
+mysql
